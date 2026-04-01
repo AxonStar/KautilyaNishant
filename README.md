@@ -75,10 +75,9 @@ I'm always interested in conversations about product strategy, AI-enabled system
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxonStar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxonStar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=AxonStar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AxonStar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxonStar&theme=github_dark" alt="Contribution Graph" />
 </p>
